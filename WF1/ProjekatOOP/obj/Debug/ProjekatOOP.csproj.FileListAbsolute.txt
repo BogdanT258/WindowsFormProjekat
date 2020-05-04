@@ -1,0 +1,24 @@
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\bin\Debug\ProjekatOOP.exe.config
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\bin\Debug\ProjekatOOP.exe
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\bin\Debug\ProjekatOOP.pdb
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\obj\Debug\ProjekatOOP.csprojAssemblyReference.cache
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\obj\Debug\ProjekatOOP.information.resources
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\obj\Debug\ProjekatOOP.Properties.Resources.resources
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\obj\Debug\ProjekatOOP.csproj.GenerateResource.cache
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\obj\Debug\ProjekatOOP.csproj.CoreCompileInputs.cache
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\obj\Debug\ProjekatOOP.exe
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\obj\Debug\ProjekatOOP.pdb
+C:\Users\Bogisa\source\repos\WF\ProjekatOOP\obj\Debug\ProjekatOOP.Posao.resources
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.csprojAssemblyReference.cache
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.information.resources
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.Properties.Resources.resources
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.csproj.GenerateResource.cache
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.csproj.CoreCompileInputs.cache
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.exe
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.pdb
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\bin\Debug\ProjekatOOP.exe.config
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\bin\Debug\ProjekatOOP.exe
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\bin\Debug\ProjekatOOP.pdb
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.Junior.resources
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.Medior.resources
+C:\Users\Bogisa\Desktop\C# 2020\WF\ProjekatOOP\obj\Debug\ProjekatOOP.Senior.resources
